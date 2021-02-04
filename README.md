@@ -1,4 +1,4 @@
-#ANPR-license-plate-Recognition-
+#ANPR with Tesseract OCR
 
 orijinal source 
 
