@@ -1,4 +1,4 @@
-#ANPR with Tesseract OCR
+#ANPR
 
 orijinal source 
 
